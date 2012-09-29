@@ -1,0 +1,8 @@
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\SendMail.Form1.resources
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\BackUp\我的文档\Visual Studio 2008\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
