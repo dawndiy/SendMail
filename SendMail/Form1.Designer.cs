@@ -77,7 +77,7 @@
             this.FromBox.ReadOnly = true;
             this.FromBox.Size = new System.Drawing.Size(106, 21);
             this.FromBox.TabIndex = 1;
-            this.FromBox.Text = "pcl_chenglu@qq.com";
+            this.FromBox.Text = "11111111@qq.com";
             // 
             // SendBox
             // 
@@ -131,7 +131,7 @@
             this.PwdBox.ReadOnly = true;
             this.PwdBox.Size = new System.Drawing.Size(181, 21);
             this.PwdBox.TabIndex = 2;
-            this.PwdBox.Text = "cxj1314";
+            this.PwdBox.Text = "*****";
             // 
             // Sublab
             // 
